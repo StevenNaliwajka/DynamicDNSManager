@@ -1,5 +1,6 @@
 # DynamicDNSManager
 Dynamic DNS loader for my server stack.  
+Checks Godaddy to ensure my public IP is up to date.  
 Only supports Godaddy.
 Tough luck
 
